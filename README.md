@@ -22,4 +22,4 @@ analyzing retail sales data from the Superstore dataset.
 - Best performing region: West
 
 ## Author
-**Amerah** | Data Analyst
+**Amerah Albalawi** | Data Analyst
