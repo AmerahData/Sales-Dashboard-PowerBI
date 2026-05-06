@@ -1,5 +1,5 @@
 # 📊 Sales Performance Dashboard
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](dashboard.png.png)
 
 ## Overview
 An interactive sales dashboard built with Power BI 
